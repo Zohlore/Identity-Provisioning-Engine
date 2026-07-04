@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-Integrated-blue)](https://entra.microsoft.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Automated user provisioning and role-based access control (RBAC) for Microsoft Entra ID using Python and the Microsoft Graph API.
 
