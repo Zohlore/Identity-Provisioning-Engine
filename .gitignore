@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and reports
+*.log
+provisioning_report.csv
+
+# VS Code settings
+.vscode/
