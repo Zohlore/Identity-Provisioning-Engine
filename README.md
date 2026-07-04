@@ -6,16 +6,16 @@
 
 > Automated user provisioning and role-based access control (RBAC) for Microsoft Entra ID using Python and the Microsoft Graph API.
 
-## 🚀 What This Does
+  What This Does
 
-- 📋 Reads employee data from a CSV file
-- 👤 Creates user accounts in Microsoft Entra ID
-- 🔐 Assigns users to security groups based on department (RBAC)
-- 📊 Generates audit reports and logs every action
-- 🔍 Supports dry-run mode for safe testing
-- 💪 Handles failures gracefully with retry logic
+-  Reads employee data from a CSV file
+-  Creates user accounts in Microsoft Entra ID
+-  Assigns users to security groups based on department (RBAC)
+-  Generates audit reports and logs every action
+-  Supports dry-run mode for safe testing
+-  Handles failures gracefully with retry logic
 
-## 🛠️ Tech Stack
+  Tech Stack
 
 - **Python** 3.8+ – Core automation
 - **Microsoft Entra ID** – Identity provider
@@ -23,7 +23,7 @@
 - **MSAL** – OAuth 2.0 authentication
 - **pandas** – CSV processing
 
-## 🔧 Installation
+  Installation
 
 ```bash
 # Clone the repository
